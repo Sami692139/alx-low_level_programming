@@ -1,4 +1,4 @@
-julien@ubuntu:~/c/0x00$ cat main.c 
+#!/bin/bash 
 #include <stdio.h>
  int main(void)
  {print ("Hello world\n")}
