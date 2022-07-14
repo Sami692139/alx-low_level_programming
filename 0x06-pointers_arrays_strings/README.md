@@ -1,1 +1,2 @@
-Learning Objectives
+ More pointers, arrays and strings
+
